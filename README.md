@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev and graphics design
 - 🌱 I’m currently learning frontend dev
 - 💞️ I’m looking to collaborate on anything design and problem solving
-- 📫 How to reach me elitetechservices735@gmail.com
+- 📫 How to reach me mwas9611@gmail.com
 - 😄 Pronouns: focus
 - ⚡ Fun fact: ...
 
