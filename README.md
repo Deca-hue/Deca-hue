@@ -42,10 +42,10 @@ I'm a creative technologist passionate about building interactive web experience
 
 ## 📱 Let’s Connect!
 
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- TikTok: [@yourhandle](https://tiktok.com/@yourhandle) — I share frontend tips & game dev content!  
-- Email: [youremail@example.com](mailto:mwas9611@example.com)  
-- Twitter / X: [@yourhandle](https://twitter.com/elitetech25)
+- Portfolio: [mywebsite.com](https://my-portfolio-two-eta-13.vercel.app/)  
+- TikTok: [@mytiktokhandle](https://tiktok.com/@yourhandle) — I share frontend tips & game dev content!  
+- Email: [myemail@example.com](mailto:mwas9611@example.com)  
+- Twitter / X: [@myXhandle](https://twitter.com/elitetech25)
 
 ---
 
